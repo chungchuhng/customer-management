@@ -1,0 +1,1 @@
+<?php require '../auth.php'; check_permission('users', 'manage'); echo '帳號管理頁'; ?>

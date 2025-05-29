@@ -1,0 +1,1 @@
+<?php require '../auth.php'; check_permission('server', 'view'); echo '主機管理'; ?>

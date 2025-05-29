@@ -1,0 +1,1 @@
+<?php require '../auth.php'; check_permission('dashboard', 'view'); echo '客戶管理首頁'; ?>

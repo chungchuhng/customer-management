@@ -1,0 +1,1 @@
+<?php require '../auth.php'; check_permission('points', 'view'); echo '點數管理'; ?>

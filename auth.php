@@ -1,0 +1,1 @@
+<?php session_start(); function check_permission($m, $a){echo "檢查權限[$m:$a]"; } ?>
